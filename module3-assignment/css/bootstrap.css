@@ -9761,6 +9761,9 @@ textarea.form-control-lg {
   }
 }
 @media (min-width: 768px) {
+  .navbar-toggler{
+    display: none;
+  }
   .float-md-start {
     float: left !important;
   }
